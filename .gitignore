@@ -1,0 +1,7 @@
+#Misc directory --> place for any miscellaneous files such as project instructions
+#or sample project examples
+
+#Ignore the misc directory when committing changes, as well as all the
+#contents inside the directory
+misc/
+
