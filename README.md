@@ -1,7 +1,7 @@
 # INFT 203 - MIS Excel Project
 
 ## Team Information
-**Group #:** 2\n
+**Group #:** 2 <br/>
 **Students:** Oleg Melnikov, Thiha Set
 **Topic:** Walmart vs. Costco
 
