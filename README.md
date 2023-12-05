@@ -1,6 +1,5 @@
 # INFT 203 - MIS Excel Project
 
-<<<<<<< HEAD
 ## Team Information
 **Group #:** 2
 **Students:** Oleg Melnikov, Thiha Set
@@ -17,10 +16,3 @@
 Excel, Git, GitHub, Git BASH, [Git SCM Documentation] (https://git-scm.com/docs)
 
 *Thank you to Professor Ned for assistance with Excel, and Git.*
-=======
-##Project Details
-**Author:** Thiha Set
-**Class:** __INFT 203 - Introduction to Management Information Systems__
-**ReadMe Date:** 12/5/23
-**Description**
->>>>>>> 8923da755e970b84bdaa71a0ac0668f364fa6ae6
