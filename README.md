@@ -5,7 +5,7 @@
 **Students:** Oleg Melnikov, Thiha Set <br/>
 **Topic:** Walmart vs. Costco
 
-<hr style="border: 1px solid #1c85e8"/>
+<hr style="border: 1px solid #1c85e8;"/>
 ## Project Details
 **Project/Repo Title:** MIS Excel Project <br />
 **Repository Author:** Thiha Set <br />
@@ -16,7 +16,7 @@
 <br/>
 ***Using Excel you will simulate the collection of data, processing it, to create a report (output) in two formats: report and charts.***
 
-<hr style="border: 1px solid #1c85e8"/>
+<hr style="border: 1px solid #1c85e8;"/>
 
 ## Credit\(s\)/Technologies Used:
 Excel, Git, GitHub, Git BASH, [Git SCM Documentation] (https://git-scm.com/docs)
