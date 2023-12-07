@@ -8,7 +8,7 @@
 ## Project Details
 **Project/Repo Title:** MIS Excel Project <br />
 **Repository Owner:** Thiha Set <br />
-**Class:** ***INFT 203 - Introduction to Management Information Systems*** <br/>
+**Class:** *INFT 203 - Introduction to Management Information Systems* <br/>
 **ReadMe Date:** 12/7/23 <br/>
 **Description:** The field of Management Information Systems is about collecting data and processing it so that you can make decisions. Computers help us automate the process so that we can obtain our information more quickly. <br/>
 <br/>
