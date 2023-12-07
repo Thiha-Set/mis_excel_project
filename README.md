@@ -13,7 +13,7 @@
 **Description:** The field of Management Information Systems is about collecting data and processing it so that you can make decisions. Computers help us automate the process so that we can obtain our information more quickly. 
 
 <br/>
-**Using Excel you will simulate the collection of data, processing it, to create a report (output) in two formats: report and charts.**
+**Using Excel you will simulate the collection of data, processing it, to create a report \(output\) in two formats: report and charts.**
 
 ## Credit\(s\)/Technologies Used:
 Excel, Git, GitHub, Git BASH, [Git SCM Documentation] (https://git-scm.com/docs)
